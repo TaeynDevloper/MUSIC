@@ -1,0 +1,24 @@
+{
+  "name": "ZX.Music",
+  "version": "6.9.9",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZKaTekI",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.1.1",
+    "solenolyrics": "^5.0.0",
+    "ytdl-core": "^0.29.2"
+  }
+}
